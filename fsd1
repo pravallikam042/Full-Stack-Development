@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Fresh Mart - Product Categories</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>🍎 Fresh Mart 🥕</h1>
+    <p>Fresh Products • Healthy Life</p>
+</header>
+
+<div class="container">
+
+    <h2>Welcome to Fresh Mart</h2>
+    <p>Select a category to explore our fresh products.</p>
+
+    <div class="cards">
+
+        <a href="fruits.html" class="card">
+            <div class="icon">🍎</div>
+            <h3>Fruits</h3>
+            <p>Fresh and healthy fruits</p>
+            <button>View Fruits →</button>
+        </a>
+
+        <a href="vegetables.html" class="card">
+            <div class="icon">🥕</div>
+            <h3>Vegetables</h3>
+            <p>Fresh farm vegetables</p>
+            <button>View Vegetables →</button>
+        </a>
+
+    </div>
+
+</div>
+
+<footer>
+    <p>Roll Number: 25K65A1206</p>
+    <p>© 2026 Fresh Mart. All Rights Reserved.</p>
+</footer>
+
+</body>
+
+</html>
