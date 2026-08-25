@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML Hyperlinks</title>
+<style>
+body {
+    background-color: lightblue;
+    text-align: center;
+    font-family: Arial;
+}
+h1 {
+    color: darkblue;
+}
+p {
+    color: purple;
+    font-size: 20px;
+}
+a {
+    color: red;
+    font-size: 20px;
+}
+</style>
+</head>
+
+<body>
+<h1>Hyperlinks Example</h1>
+<p>25K65A1206</p>
+
+<a href="https://www.google.com" target="_blank">Google</a><br>
+<a href="https://www.youtube.com" target="_self">YouTube</a>
+</body>
+</html>
