@@ -1,0 +1,38 @@
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;Image Gallery&lt;/title&gt;
+&lt;style&gt;
+body {
+background-color: lightblue;
+text-align: center;
+font-family: Arial;
+}
+h1 {
+color: darkblue;
+}
+img {
+width: 100px;
+height: 100px;
+margin: 10px;
+}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;h1&gt;Image Gallery&lt;/h1&gt;
+&lt;p&gt;25K65A1206&lt;/p&gt;
+&lt;a href=&quot;image1.jpg&quot;&gt;
+&lt;img src=&quot;image1.jpg&quot; alt=&quot;Image 1&quot;&gt;
+&lt;/a&gt;
+&lt;a href=&quot;image2.jpg&quot;&gt;
+&lt;img src=&quot;image2.jpg&quot; alt=&quot;Image 2&quot;&gt;
+&lt;/a&gt;
+&lt;a href=&quot;image3.jpg&quot;&gt;
+
+&lt;img src=&quot;image3.jpg&quot; alt=&quot;Image 3&quot;&gt;
+&lt;/a&gt;
+&lt;a href=&quot;image4.jpg&quot;&gt;
+&lt;img src=&quot;image4.jpg&quot; alt=&quot;Image 4&quot;&gt;
+&lt;/a&gt;
+&lt;/body&gt;
+&lt;/html&gt;
